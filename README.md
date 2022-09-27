@@ -23,4 +23,8 @@ I actually found it
 ![Screenshot_2022-09-27_13_51_36](https://user-images.githubusercontent.com/80649768/192601504-b9c44a83-51fa-4ade-9414-c1a0b57676ab.png)
 
 
+
+Base32 Decoded : (https://simplycalc.com/base32-decode.php)
+
+
 FLAG : DUCTF{ƐƖSSn∀_ɹ_n_sƖɥʇ_D∀Ɛɹ_NㄣƆ_∩0⅄_ℲI}
