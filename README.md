@@ -12,8 +12,7 @@ Description :
 At first I found the text upside down, I searched for a tool that can return the original text, and after a long search I found this tool (https://www.upsidedowntext.com/)
 
 
-After looking at length, I found that this is not a normal text, but rather a script, and I started searching for this script
-
+After looking at length, I found that this was not plain text, but text, and I started searching for this text, and found out that it was Aussie++
 
 I found a great page explaining about this language (https://aussieplusplus.vercel.app/) but there are a lot of errors in the code, I modified it and fixed the error after that I ran the code but there is no flag
 
